@@ -1,0 +1,35 @@
+#enroll_bot{
+    height: 100px;
+}
+
+#enroll-content1{
+    padding-top: 20px;
+}
+
+.message-box{
+    padding-left: 600px;
+    height: 50px;
+    width: 100%;
+    background: #fafafa;
+    padding-top: 70px;
+}
+
+.col2{
+    width: 50%;
+    float: left;
+    justify-content: center;
+}
+.green{
+    color: rgb(29, 138, 2);
+}
+
+.duyuru{
+    height: 50px;
+    padding-top: 10px;
+    background: #fafafa;
+    text-align: center;
+}
+
+#t2{
+  border-bottom: 5px solid rgba(185, 185, 185, 0.1); 
+}

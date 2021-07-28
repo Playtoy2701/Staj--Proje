@@ -1,0 +1,18 @@
+.hazirlik_content{
+    padding-top: 100px;
+    text-align: center;
+    height: 495px;
+    background: #fafafa;
+}
+.hc{
+    text-align: center;
+}
+
+.hc i{
+    font-size: 78px;
+    color: rgb(243, 141, 45);
+}
+
+.hc h6{
+    padding-top: 10px;
+}
